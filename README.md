@@ -34,6 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bubezi&show_icons=true&locale=en&layout=compact" alt="bubezi" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bubezi&show_icons=true&locale=en" alt="bubezi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bubezi&show_icons=true&locale=en" alt="bubezi" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bubezi&" alt="bubezi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bubezi&" alt="bubezi" /></p>
