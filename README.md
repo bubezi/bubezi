@@ -41,5 +41,4 @@
 - Previous Public Projects
 - https://sunperkyfilms.com
 - https://swiphtcourier.com
-- https://bellsolarc.com
 - https://adasachildrenhome.org
