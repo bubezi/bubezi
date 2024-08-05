@@ -4,11 +4,11 @@
 
 <image align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.wLaxgaK-zgcvSMSZyGYyjQHaE8%26pid%3DApi&f=1&ipt=dd90aa843afaca5d995791bee2ee48c28c8f02edbd4fe52d8c629d5eda5df833&ipo=images"/>
 
-- 🔭 I’m currently working on **A Streaming Site**
+- 🔭 I’m currently working on **An E-Commerce Ecosystem**
 
 - 🌱 I’m currently learning **Rust, Cyber Security**
 
-- 💬 Ask me about **React, Python, Django**
+- 💬 Ask me about **React, Python, Django, Flutter**
 
 - 📫 How to reach me **princebubezi@gmail.com**
 
@@ -37,3 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bubezi&show_icons=true&locale=en" alt="bubezi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bubezi&" alt="bubezi" /></p>
+
+- Previous Public Projects
+- https://sunperkyfilms.com
+- https://swiphtcourier.com
+- https://bellsolarc.com
+- https://adasachildrenhome.org
