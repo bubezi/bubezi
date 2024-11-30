@@ -27,11 +27,11 @@
 <hr>
 
 ## Previous Public Projects
-- https://sunperkyfilms.com
-- https://swiphtcourier.com
-- https://adasachildrenhome.org
-- https://bellsolarc.com
-- https://www.summersandal.online/
+- https://www.swiphtcourier.com
+- https://www.adasachildrenhome.org
+- https://www.greenarthisacademics.com
+- https://www.summersandal.online
+- https://www.sunperkyfilms.com
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
