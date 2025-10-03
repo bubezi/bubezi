@@ -27,11 +27,9 @@
 <hr>
 
 ## Previous Public Projects
-- https://www.swiphtcourier.com
-- https://www.adasachildrenhome.org
+- https://www.adasachildrenhome.com
 - https://www.greenarthisacademics.com
-- https://www.summersandal.online
-- https://www.sunperkyfilms.com
+- https://www.techseacomputers.com
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
